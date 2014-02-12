@@ -17,26 +17,27 @@ The system of differential equations is numerically solved using MATLAB.
 
 The DC generator is a 300V Cumulatively Compounded type with short shunt connection having the following data:
 
-Shunt field resistance rf = 130 Ohms
+-Shunt field resistance rf = 130 Ohms
 
-Series field resistance rfs = 0.14 Ohms
+-Series field resistance rfs = 0.14 Ohms
 
-Armature resistance ra = 1.65 Ohms
+-Armature resistance ra = 1.65 Ohms
 
-Mutual inductance between shunt and series fields Lffs = 0.154 H
+-Mutual inductance between shunt and series fields Lffs = 0.154 H
 
-Lumped damping coefficient Bm = 0.25 N.m.s
+-Lumped damping coefficient Bm = 0.25 N.m.s
 
-Lumped Inertia J = 11 Kg.m2
+-Lumped Inertia J = 11 Kg.m2
 
-Shunt field time constant τf = 0.36 sec
+-Shunt field time constant τf = 0.36 sec
 
-Series field time constant τfs = 0.005 sec
+-Series field time constant τfs = 0.005 sec
 
-Armature winding time constant τa = 0.02 sec
+-Armature winding time constant τa = 0.02 sec
 
 If the machine has 4 poles running at 1000rpm, the output voltage due to each the fields separately excited are given respectively by:
 
 a)250V / 1A of shunt field.
+
 b)0.5V / 1A of series field. 
 
