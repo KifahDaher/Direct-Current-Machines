@@ -20,6 +20,7 @@ Shunt field time constant τf = 0.36 sec
 Series field time constant τfs = 0.005 sec
 Armature winding time constant τa = 0.02 sec
 If the machine has 4 poles running at 1000rpm, the output voltage due to each the fields separately excited are given respectively by:
+
 a)250V / 1A of shunt field.
 b)0.5V / 1A of series field. 
 
